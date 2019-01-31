@@ -1,4 +1,4 @@
-package com.ge.smallworld.alpaca.requeststore.domain;
+package com.lourish.requeststore.domain;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
